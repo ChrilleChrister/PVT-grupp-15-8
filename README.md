@@ -15,6 +15,6 @@ PVT grupp 15:8 repository. Beskrivning och innehåll uppdateras under kursens g�
   * [Dag Åhammar](https://github.com/321dag123)
 
 
-Repo för back-end: [PVTBackEnd](https://github.com/KarlJJonsson/PVTBackEnd)  
-Repo för front-end: [PVTFrontEnd](https://github.com/erikonn/ua)  
-Repo för models i Dart: [PVTDartModels](https://github.com/KarlJJonsson/PVTDartModels)
+Repo för back-end: [PVTBackEnd](https://github.com/ChrilleChrister/PVTBackEnd)  
+Repo för front-end: [PVTFrontEnd](https://github.com/ChrilleChrister/PVTFrontEnd)  
+Repo för models i Dart: [PVTDartModels](https://github.com/ChrilleChrister/PVTDartModels)
